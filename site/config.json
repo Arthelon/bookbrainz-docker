@@ -30,6 +30,9 @@
 		"host": "es:9200"
 	},
 	"influx": {
-		"host": "influx"
+		"host": "influx",
+		"site": {
+			"log": "influx"
+		}
 	}
 }
